@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "begborrowshare",
+    "packageName": "com.begborrowshare.webapp",
+    "packageFolder": "com/begborrowshare/webapp",
+    "authenticationType": "cookie",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "nosql",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8"
+  }
+}
